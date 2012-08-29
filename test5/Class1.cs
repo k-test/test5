@@ -7,5 +7,6 @@ namespace test5
 {
     class Class1
     {
+        //sdfasdfsdasdasf
     }
 }
